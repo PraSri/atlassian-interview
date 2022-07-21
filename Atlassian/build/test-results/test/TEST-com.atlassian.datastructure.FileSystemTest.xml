@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.atlassian.datastructure.FileSystemTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-20T10:36:17" hostname="197NODMB28444.local" time="0.017">
+  <properties/>
+  <testcase name="getAllFileSize()" classname="com.atlassian.datastructure.FileSystemTest" time="0.011"/>
+  <testcase name="getTopNCollections()" classname="com.atlassian.datastructure.FileSystemTest" time="0.005"/>
+  <system-out><![CDATA[Collection1 Collection2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
